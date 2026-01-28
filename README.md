@@ -36,7 +36,7 @@ The Caesar Cipher is one of the oldest and simplest encryption techniques. It wo
 
 ### 1️⃣ Clone the repository
 ```bash
-https://github.com/Muhammadshibili/PRODIGY_CS_01.git
+git clon https://github.com/Muhammadshibili/PRODIGY_CS_01.git
 cd caesar-cipher-python
 python caesar_cipher.py
 
